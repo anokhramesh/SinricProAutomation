@@ -2,9 +2,6 @@
  *  TITLE: Google + Alexa + Manual Switch/Button control 4 Relays using NodeMCU & Sinric Pro (Real time feedback)
  *  (flipSwitch can be a tactile button or a toggle switch) (code taken from Sinric Pro examples then modified)
  *  Click on the following links to learn more. 
- *  YouTube Video: https://www.youtube.com/channel/UCsCpytXvMQn9RnvSHZcriNQ/videos
- *  
- *  by Philiuminaty
  *  Preferences--> Aditional boards Manager URLs : 
  *  https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json
  *  
