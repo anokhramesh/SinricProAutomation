@@ -52,14 +52,14 @@
 
 // define the GPIO connected with Relays and switches
 #define RelayPin1 5  //connect Relay1 to GPIO PIN 5 of Node MCU(D1)
-#define RelayPin2 4  //connect Relay1 to GPIO PIN 4 of Node MCU(D2)
-#define RelayPin3 14 //connect Relay1 to GPIO PIN 14 of Node MCU(D5)
-#define RelayPin4 12 //connect Relay1 to GPIO PIN 12 of Node MCU(D6)
+#define RelayPin2 4  //connect Relay2 to GPIO PIN 4 of Node MCU(D2)
+#define RelayPin3 14 //connect Relay3 to GPIO PIN 14 of Node MCU(D5)
+#define RelayPin4 12 //connect Relay4 to GPIO PIN 12 of Node MCU(D6)
 
-#define SwitchPin1 10  //connect Push button to GPIO Pin 10 of Node MCU(SD3)
-#define SwitchPin2 0   //connect Push button to GPIO Pin 0 of Node MCU(D3) 
-#define SwitchPin3 13  //connect Push button to GPIO Pin 13 of Node MCU(D7)
-#define SwitchPin4 3   //connect Push button to GPIO Pin 3 of Node MCU(RX)
+#define SwitchPin1 10  //connect Push button1 to GPIO Pin 10 of Node MCU(SD3)
+#define SwitchPin2 0   //connect Push button2 to GPIO Pin 0 of Node MCU(D3) 
+#define SwitchPin3 13  //connect Push button3 to GPIO Pin 13 of Node MCU(D7)
+#define SwitchPin4 3   //connect Push button4 to GPIO Pin 3 of Node MCU(RX)
 
 #define wifiLed   16   //connect a blue LED To GPIO Pin 16 of Node MCU(D0)
 
